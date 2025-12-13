@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="soundwave/soundwave.Android/soundwave.Android.csproj" />
+  <Project Path="soundwave/soundwave.Core/soundwave.Core.csproj" />
+  <Project Path="soundwave/soundwave.DesktopGL/soundwave.DesktopGL.csproj" />
+  <Project Path="soundwave/soundwave.iOS/soundwave.iOS.csproj" />
+  <Project Path="soundwave/soundwave.WindowsDX/soundwave.WindowsDX.csproj" />
+</Solution>
